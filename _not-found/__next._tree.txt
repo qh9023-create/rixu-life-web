@@ -1,4 +1,4 @@
 :HL["/rixu-life-web/_next/static/chunks/2y0zw00xfs3q8.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"H3rfC4UFxXMMB3O_-PIRZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"3WtD8VTSIjGSezmv-diwR","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
