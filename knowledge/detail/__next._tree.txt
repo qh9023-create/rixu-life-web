@@ -1,6 +1,6 @@
-:HL["/rixu-life-web/_next/static/chunks/0wsn9plecuf03.css","style"]
+:HL["/rixu-life-web/_next/static/chunks/2y0zw00xfs3q8.css","style"]
 :HL["/rixu-life-web/_next/static/chunks/2p5afx6-20nd_.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"detail","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"knowledge","h":96,"c":"$Q2"}]]
-0:{"b":"AXxicEGn8OPCQVeDAGiqE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"9aQwVrfn0IDzJWa-aivV0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
