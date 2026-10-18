@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:"/rixu-life-web/_next/static/chunks/0umf92h1sb77c.js"
+3:I[39756,["$2"],"default"]
+4:"/rixu-life-web/_next/static/chunks/0g_2z-yl2zmtk.js"
+5:I[58298,["$2","$4"],"default"]
+6:I[37457,["$2"],"default"]
+7:"/rixu-life-web/_next/static/chunks/2n5qeheznvl4u.js"
+8:I[22016,["$2","$7"],""]
+c:I[97367,["$2"],"OutletBoundary"]
+d:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$2"],"$f"]
+12:"MetadataBoundary"
+13:I[97367,["$2"],"$12"]
+15:I[68027,["$2"],"default",1]
+:HL["/rixu-life-web/_next/static/chunks/2axa95et9cfvl.css","style"]
+a:X
+b:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"app-loading","children":[["$","h1",null,{"children":"这一页，暂时走远了。"}],["$","$L8",null,{"className":"primary-button","href":"/","children":"回到生活总览"}]]}],[["$","script","script-0",{"src":"/rixu-life-web/_next/static/chunks/2n5qeheznvl4u.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
+9:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$a"},"c":"$Qb"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/rixu-life-web/_next/static/chunks/2axa95et9cfvl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/rixu-life-web/_next/static/chunks/0umf92h1sb77c.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳到主要内容"}],["$","$L3",null,{"parallelRouterKey":"children","error":"$5","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/rixu-life-web/_next/static/chunks/0g_2z-yl2zmtk.js","async":true,"nonce":"$undefined"}]],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"app-loading","children":[["$","h1",null,{"children":"这一页，暂时走远了。"}],["$","$L8",null,{"className":"primary-button","href":"/","children":"回到生活总览"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],"p":false,"v":null},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/rixu-life-web/_next/static/chunks/2axa95et9cfvl.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"dZvsxYUaPlAmLzRnoF5Tu"}
+a:C
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#dfede5"}]]
+16:I[27201,["$2"],"IconMark"]
+e:null
+14:[["$","title","0",{"children":"日序 · 把日子，过成喜欢的样子"}],["$","meta","1",{"name":"description","content":"日常计划、生活总结、实用知识。让日子，有自己的节奏。"}],["$","meta","2",{"name":"application-name","content":"日序"}],["$","link","3",{"rel":"manifest","href":"/rixu-life-web/manifest.webmanifest","crossOrigin":"$undefined"}],["$","link","4",{"rel":"icon","href":"/rixu-life-web/icon.png"}],["$","link","5",{"rel":"apple-touch-icon","href":"/rixu-life-web/icon.png"}],["$","$L16","6",{}]]

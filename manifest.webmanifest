@@ -1,0 +1,18 @@
+{
+  "name": "日序 · 生活空间",
+  "short_name": "日序",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#edf5f0",
+  "theme_color": "#dfede5",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "scope": "./"
+}
