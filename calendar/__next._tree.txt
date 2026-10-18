@@ -1,5 +1,5 @@
-:HL["/rixu-life-web/_next/static/chunks/0lr_obdzmgd2f.css","style"]
+:HL["/rixu-life-web/_next/static/chunks/0354n1e_4dya7.css","style"]
 :HL["/rixu-life-web/_next/static/chunks/2p5afx6-20nd_.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"calendar","h":96,"c":"$Q2"}]]
-0:{"b":"9N5NuhdZML1W_zEh39_kr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"a8Kas91OtfUa21Do8Htng","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
